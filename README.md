@@ -8,12 +8,16 @@
 |Blog|[Motsu-log](https://motsu-log.com/)|
 |Twitter|[@ad_motsu](https://twitter.com/ad_motsu)|
 
+## 学歴
+\*詳細は別途提出時にお見せ致します。
+### 大学生
+
+### 大学院生
+
 ## スキル
 ### 言語
 - Python
 - Javascript
-
-(全て個人学習のため、業務経験なし)
 
 ### インフラ系
 
