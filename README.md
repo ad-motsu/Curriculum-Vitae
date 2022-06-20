@@ -7,7 +7,7 @@
 |Name|もつ|
 |Blog|[Motsu-log](https://motsu-log.com/)|
 |Twitter|[@ad_motsu](https://twitter.com/ad_motsu)|
-|Speaker Deck|[motsuhiro131]([https://motsu-log.com/](https://speakerdeck.com/motsuhiro131))|
+|Speaker Deck|[motsuhiro131](https://speakerdeck.com/motsuhiro131)|
 
 ## 学歴
 \*詳細は別途提出時にお見せ致します。
@@ -75,7 +75,7 @@
 ### 過去のLT歴
 * [JAWS-UG 初心者支部#34 re:Invent re:Cap＆LT大会](https://jawsug-bgnr.connpass.com/event/197370/)
 (資料は会社バレ防止のため未アップロード)
-* [JAWS-UG朝会 #34](https://speakerdeck.com/motsuhiro131/jaws-ug-asa34))
+* [JAWS-UG朝会 #34](https://speakerdeck.com/motsuhiro131/jaws-ug-asa34)
   
 ### 執筆歴
 * [Qiita](https://qiita.com/ad_motsu)
