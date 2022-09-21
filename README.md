@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|もつ|
-|Blog|[Motsu-log](https://motsu-log.com/)|
+|Blog|[motsu-dev-log](https://www.motsu-dev-log.com/)|
 |Twitter|[@ad_motsu](https://twitter.com/ad_motsu)|
 |Speaker Deck|[motsuhiro131](https://speakerdeck.com/motsuhiro131)|
 
