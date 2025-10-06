@@ -96,3 +96,5 @@ Affinity系のツールを使って編集等してます。
 →[こういうことも書いてます](https://www.motsu-tanbou.com/entry/aws-s3-glacier-photobackup)。
  - Systems Managers
 運用管理で便利になるのではないかなと思って色々と触っているところです。
+ - Cloudwatch
+最近仕事でつかっております。
